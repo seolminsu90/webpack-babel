@@ -1,16 +1,20 @@
 ### webpack-dev-server
-## ¼³Ä¡
+## ì„¤ì¹˜
+
 npm init -y
+
 npm install --save-dev babel-loader babel-core babel-preset-env
+
 npm install --save-dev webpack webpack-dev-server
+
 npm install --save-dev webpack-cli
 
-# babel-loader ¿Í core ¹öÀü ¸ÂÃçÁÖ¾î¾ß Á¤»ó µ¿ÀÛÇÑ´Ù.
+# babel-loader ì™€ core ë²„ì „ ë§ì¶°ì£¼ì–´ì•¼ ì •ìƒ ë™ì‘í•œë‹¤.
 
-## ½ÃÀÛ
+## ì‹œì‘
 
-°³¹ß
+ê°œë°œ
 npm run devserver
 
-¹èÆ÷ºôµå
+ë°°í¬ë¹Œë“œ
 npm run build
